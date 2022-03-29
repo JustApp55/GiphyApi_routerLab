@@ -1,0 +1,7 @@
+Pushing existing repository to Github 
+
+- git init 
+- git add -A 
+- git commit -m "Added my project"
+- git remote add origin https://github.com/just5/my-new-project.git 
+- git push -u -f origin main/master 

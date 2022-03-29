@@ -19,9 +19,9 @@ export default function Home() {
         }
 
     return (
-        <div>
+        <div className="src">
             <img src={randomGif} id="image"/> <br/>
-            <input type="button" onClick={changeGif} value="changeGif" id="clik"></input>
+            <input type="btn" onClick={changeGif} value="changeGif" id="clik"></input>
         </div>
     )
 }
