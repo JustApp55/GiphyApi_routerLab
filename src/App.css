@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+#clik {
+  color: #ff758f;
+  background-color: #e0fbfc;
+}
+
+li {
+  display: block;
+  width: 25%;
+}
+
+.map {
+  display: flex;
+ 
+  flex-flow: wrap;
+
+
+  list-style: none;
+  margin: 0 0 0 2rem;
+  padding: 2.2rem;
+  background: #f6f3ea;
+  box-shadow: 3px 2px 12px rgb(0 0 0 / 40%);
+
+}
+
+.gif {
+  background-color: rgb(196, 241, 196);
+}
+
+img {
+  display: block;
+  width: 90%;
+  height: 90%;
+}
